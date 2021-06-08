@@ -1,0 +1,44 @@
+*{
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+html, body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: orange;
+	justify-content: space-between;
+}
+
+header img{
+	max-height: 100px;
+	max-width: 100px;
+}
+
+nav{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	flex-grow: 2;
+	justify-content: center;
+}
+
+
+nav a{
+	align-self: center;
+	text-decoration: none;
+	color: white;
+	padding: 1% 2%;
+}
+
+nav a:hover{
+	background-color: orangered;
+}
+
+
+
