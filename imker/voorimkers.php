@@ -17,6 +17,30 @@
 		</header>
 
 		<main>
+		<h1>Voor Imkers</h1>
+		<div class="container section0">
+  			<div class="row no-gutters">
+    			<div class="col-12 col-sm-6 col-md-8 section1">De imkervereniging-Oegstgeest is aangesloten bij de landelijke Nederlandse<br>
+				 Bijenhoudersvereniging. Met een lidmaatschap van de NBV bent u <br>automatisch lid van één van de regio afdelingen. De NBV biedt u:<br><br>
+				 <ul>
+				 	<li>belangenbehartiging van de imkerij in Nederland</li>
+				 	<li>uitvoerig bijenteeltonderwijs programma</li>
+				 	<li>zes keer per jaar ontvangst van het magazine BIJENhouden</li>
+				 	<li>maandelijks het digitale Imkernieuws;</li>
+				 	<li>wekelijks tips over het houden van bijen in het BijenBlog</li>
+				 	<li>korting op entree voor bijeenkomsten en activiteiten met de NBV ledenpas;</li>
+				 	<li>aanvullende <a href="https://www.bijenhouders.nl/over-de-nbv/verzekeringen">WA-verzekering</a> voor activiteiten die voortvloeien uit het houden van bijen;</li>
+				 	<li>voorlichtingsmateriaal t.b.v presentaties</li>
+				 	<li>verzekerd zijn van ondersteuning van collega imkers;</li>
+				 	<li>voor al uw vragen kunt u zich wenden tot het <a href="https://www.bijenhouders.nl/over-de-nbv/lidmaatschap#aanmeldformulier">verenigingssecretariaat in Wageningen.</a></li>
+				 </ul>
+				 Informatie over contributie en een mogelijkheid tot aanmelding vindt u op de <a href="https://www.bijenhouders.nl/over-de-nbv/lidmaatschap">NBV website</a>.<br><br>
+					U kunt ook alleen donateur van de Oegstgeester Imkervereniging worden. Dat kunt u aanvragen via het <a href="https://www.imkervereniging-oegstgeest.nl/contact/">contactformulier</a>.
+				 </div>
+    				<div class="col-6 col-md-4 section2 bijenhoudenimg">
+					<img src="images/bijenhouden.png" class="img-fluid" alt="bijenhouden">
+</div></div>
+  			
 		</main>
 
 		<footer>
