@@ -8,7 +8,7 @@
 		<meta name="keywords" content="">
 		<title>Contact</title>
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="style.css">
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 		<script type="text/javascript" src="js/main.js"></script>
 	</head>
@@ -48,6 +48,8 @@
   </tbody>
 </table>
 </div>
+<p style="margin: 4% 20%;">Voor vragen over de vereniging, of onze cursus, verstuur een mail naar onze secretaris.<br>
+Voor vragen over de website zelf, neem contact op met de webmaster.</p>
 
 
 

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: url('images/imkerbg.jpg');
+    background-size: cover;
+    background-repeat: repeat;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contactTable th, td {
+    color:white;
+    border: 1px solid white;
+}
+
+.contactTable th {
+    background-color: #ffb300;
+}
+
+.contactTable td {
+    background-color: rgb(49, 49, 49);
+}
